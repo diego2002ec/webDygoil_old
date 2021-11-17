@@ -1,0 +1,19 @@
+texto=<font face="Arial" size="14"> 
+<font face="Arial" size="16" color="#FFFFFF"><b><U>ISO 9001:2008 Quality Policy</U></b></font> 
+Workover, Wireline and Specialized Technical Services provided by Dygoil, meet the customer requirements, proposing at all times its continuous improvement. 
+Dygoil undertakes to establish and continuously review its quality objectives.<br/>
+<font face="Arial" size="16" color="#FFFFFF"><b><U>Permitted Exclusions ISO 9001:2008</U></b></font>
+Clause 7.3 - Design and Development 
+Dygoil has excluded this clause, because it is not part of the activities of the company.<br/> 
+<font face="Arial" size="16" color="#FFFFFF"><b><U>ISO 14001:2004 Environmental Policy</U></b></font> 
+Workover, Wireline and Specialized Technical Services provided by Dygoil are done meeting the environmental and legal requirements of the involved parts, monitoring the environmental aspects and impacts, identifying and  endeavoring at all times to its continuous improvement and pollution prevention . 
+Dygoil undertakes to establish and continuously review its environmental objectives and targets.<br/> 
+<font face="Arial" size="16" color="#FFFFFF"><b><U>Health and Security Policies at Work</U></b></font> 
+Dygoil’s Workover Services, Wireline-Slickline Services, Specialized Technical Services, are carried out to fully satisfy our clients requirements in quality, environmental care, health and security at work, as well as the legal interests of the parties involved.
+Dygoil controls detected environmental impact and risks at work associated with our activities.
+Dygoil looks forward permanently to best achievements, prevention of contamination and prevention of bad health of its workers.
+Dygoil is committed to revise and establish permanently its goals for its Integrated Management System.
+Dygoil is committed to provide the economic, technical and material resources for the implementation of the SST policy. This policy has been transmitted to all Dygoil’s personnel and staff, contractors, operating and services companies in the oil sector, and is available to the public at Dygoil’s website www.dygoil.com<br/> 
+<font face="Arial" size="16" color="#FFFFFF"><b><U>ISO 9001:2008, ISO 14001:2004, OHSAS 18001-2007 Scope</U></b></font>
+Workover, Wireline and Specialized Technical Services.
+</font>

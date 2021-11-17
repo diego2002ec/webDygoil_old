@@ -1,0 +1,1 @@
+﻿texto=<font family="Arial" size="12">Here goes the english text

@@ -1,0 +1,6 @@
+texto=<font face="Arial" size="14">
+Over 25 years of experience in national and international oil industry has given us the backing to provide specialized technical services in all areas of hydrocarbon sector.
+Today we provide specialized technical services for operation and maintenance of drilling and workover to domestic and foreign companies as AGIP Oil Ecuador, Petroleos de Venezuela (PDVSA), and PETREX (SAIPEM-ENI group).
+The quality of our services ensures the competence of our staff, which is accredited by international bodies such as API, ASME, IADC, and more.                                                                                                               
+                                                                                                                
+</font>

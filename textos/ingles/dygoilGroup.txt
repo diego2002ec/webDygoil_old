@@ -1,0 +1,6 @@
+texto=<font face="Arial" size="14">
+ <b>Address:</b> 
+ Avenida Republica of El Salvador 309 Building Dygoil
+ Quito, Ecuador 
+ Phone: (593-2) 2440 742 
+</font>

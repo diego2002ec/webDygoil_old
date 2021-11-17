@@ -1,0 +1,9 @@
+texto=<font face="Arial" size="14">
+Workover, Wireline and Specialized Technical Services provided by Dygoil are done meeting the environmental and legal requirements of the involved parts, monitoring the environmental aspects and impacts, identifying and  endeavoring at all times to its continuous improvement and pollution prevention.
+Dygoil undertakes to establish and continuously review its environmental objectives and targets. 
+ISO 14001:2004 Scope 
+Workover, Wireline and Specialized Technical Services. 
+September 2005: ISO 9001:2000 
+April 2007: ISO 14001:2004 
+Mid 2010: in process of obtaining the OHSAS 18001:2007, integrating our systems Quality Management, Environmental Health and Safety at Work 
+</font>
